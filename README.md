@@ -4,3 +4,4 @@
 #### Contents 
 #### 1) Tutorial 1 : Learn about variables and data types
 #### 2) Tutorial 2 : Design a calculator using input, stype conversions and lists
+#### 3) Tutorial 3 : Learn about for loops
